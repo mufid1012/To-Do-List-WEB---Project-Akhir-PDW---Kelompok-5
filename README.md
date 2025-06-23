@@ -1,125 +1,65 @@
-# To-Do List Project
+# To Do List Web App
 
-## Deskripsi Proyek
-To-Do List adalah aplikasi manajemen tugas berbasis web yang memungkinkan pengguna untuk mengatur daftar tugas yang harus diselesaikan dengan fitur menambahkan, mengedit, melihat, dan menghapus tugas mereka. Aplikasi ini dirancang untuk membantu pengguna mengatur dan melacak tugas-tugas mereka dengan lebih efisien. Proyek ini menggunakan PHP, MySQL, HTML, CSS, dan JavaScript.
-
----
-## Kelompok 2 
-**Anggota:**
-1. Nur Kholivah(4123009)
-2. Muhammad Genio Brillian(4123009)
-3. Dio Ananda Maulana Wijaya(4123031)
-
----
+Project ini adalah aplikasi manajemen tugas berbasis web dengan fitur autentikasi user, panel admin, serta pengelolaan jadwal dan informasi kuliah.
 
 ## Fitur Utama
-1. **Registrasi dan Login:**
-   - Pengguna dapat membuat akun baru untuk menggunakan aplikasi.
-   - Pengguna harus login untuk mengakses dashboard tugas mereka.
 
-2. **Dashboard:**
-   - Menampilkan daftar tugas yang dimiliki oleh pengguna.
-   - Fitur tambah tugas langsung dari dashboard.
-   - Fitur hapus tugas dengan konfirmasi.
-   - Notifikasi berupa pesan pop-up untuk operasi yang berhasil (tambah, edit, atau hapus tugas).
-
-3. **Tambah Tugas:**
-   - Pengguna dapat menambahkan tugas baru melalui form di dashboard.
-   - Data tugas meliputi: nama tugas, deskripsi, dan tanggal deadline.
-
-4. **Edit Tugas:**
-   - Pengguna dapat memperbarui informasi tugas yang telah ditambahkan sebelumnya.
-   - Form edit menampilkan data tugas sebelumnya untuk diedit.
-
-5. **Hapus Tugas:**
-   - Tugas dapat dihapus dengan konfirmasi untuk menghindari penghapusan yang tidak disengaja.
-
-6. **Status Tugas:**
-   - Pengguna dapat mengatur status tugas (Belum atau Selesai).
-   - Status ditampilkan di dashboard.
-
----
-
-## Struktur Folder
-```
-project_root/
-├── assets/
-│   └── styles/           # Folder untuk file CSS
-│      ├── dashboard.css
-│      ├── edit_tugas.css
-│      ├── login.css
-|      ├── index.css
-|      └── register.css
-│   
-├── db/
-│   └── to_do_list_db.sql # File yang berisi database
-|
-├── includes/
-│   ├── koneksi.php       # File untuk koneksi database
-│   ├── auth.php          # File untuk fungsi autentikasi
-│   ├── header.php        # Header HTML yang digunakan bersama
-│   └── footer.php        # Footer HTML yang digunakan bersama
-│   
-├── add_tugas.php         # File logika untuk menambah tugas
-├── dashboard.php         # Halaman utama setelah berhasil login
-├── delete_tugas.php      # File logika untuk menghapus tugas
-├── edit_tugas.php        # File logika untuk mengedit tugas
-├── index.php             # Halaman utama
-├── login.php             # Halaman untuk login
-├── logout.php            # File logika untuk logout
-├── register.php          # Halaman untuk registrasi
-└── README.md             # File dokumentasi proyek
-```
-
----
+- **Autentikasi**: Registrasi, login, dan logout pengguna.
+- **Dashboard**: Menampilkan tugas yang harus diselesaikan.
+- **CRUD Tugas**: Tambah, edit, hapus tugas harian.
+- **Jadwal Kuliah**: Manajemen jadwal mata kuliah.
+- **Panel Admin**: Manajemen user, jadwal, dan informasi kuliah.
+- **Informasi Kuliah**: Fitur input dan update info kuliah oleh admin.
 
 ## Teknologi yang Digunakan
-- **Bahasa Pemrograman:** PHP, HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Framework:** Tidak ada (PHP native)
-- **Library Tambahan:** Tidak ada (pure CSS dan JS)
 
----
+- **Backend**: PHP (tanpa framework)
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: MySQL (akses via `includes/koneksi.php`)
+- **UI Asset**: Folder `assets/` (CSS, gambar, JS, dsb.)
 
-## Instalasi
-1. **Clone Repository:**
-   ```bash
-   git clone <repository_url>
-   ```
+## Instalasi & Cara Menjalankan
 
-2. **Konfigurasi Database:**
-   - Buat database baru di MySQL (misalnya: `todo_list`).
-   - Import file `todo_list.sql` (jika tersedia) untuk membuat tabel otomatis.
-   - Pastikan file `includes/koneksi.php` sudah diisi dengan kredensial database Anda:
-     ```php
-     $host = 'localhost';
-     $user = 'root';
-     $password = '';
-     $database = 'todo_list';
-     ```
+1. **Clone repo atau ekstrak ZIP:**
+atau ekstrak file ZIP ke folder htdocs (jika pakai XAMPP).
 
-3. **Konfigurasi Server Lokal:**
-   - Tempatkan proyek ini di folder server lokal Anda (misalnya: `htdocs` jika menggunakan XAMPP).
-   - Akses melalui browser di alamat: `http://localhost/project_folder`.
+2. **Setup Database:**
+- Import database yang ada di folder `db/` (`db.sql` atau sejenisnya) ke MySQL, contoh via phpMyAdmin.
 
-4. **Mulai Aplikasi:**
-   - Buat akun baru melalui halaman login atau gunakan akun yang sudah ada.
-   - Mulai menambahkan, mengedit, dan mengelola tugas Anda!
+3. **Edit Koneksi Database:**
+- Ubah konfigurasi database di `includes/koneksi.php` sesuai setting MySQL-mu.
 
+4. **Jalankan di Localhost:**
+- Gunakan XAMPP, Laragon, atau built-in PHP server:
+  ```
+  php -S localhost:8000
+  ```
+- Akses via browser ke `http://localhost/To Do List/` atau sesuai folder kamu simpan.
 
----
+## Struktur Direktori
+
+- `index.php`         : Halaman utama (login)
+- `dashboard.php`     : Dashboard tugas user
+- `add_tugas.php`     : Menambah tugas baru
+- `edit_tugas.php`    : Edit tugas
+- `delete_tugas.php`  : Hapus tugas
+- `register.php`      : Registrasi user
+- `admin_panel.php`   : Panel admin
+- `jadwal_kuliah.php` : Lihat jadwal kuliah
+- `informasi.php`     : Informasi kuliah
+- `includes/`         : File PHP pendukung (koneksi, fungsi, dsb.)
+- `assets/`           : CSS, JS, gambar
+
+## Catatan
+
+- Pastikan ekstensi PHP aktif di server.
+- Login sebagai admin untuk mengakses fitur panel admin dan manajemen jadwal/informasi kuliah.
 
 ## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini:
-1. Fork repository ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda.
-3. Lakukan pull request ke branch utama.
+
+Pull request dan masukan sangat diterima! Silakan buat issue jika ada bug/masukan.
 
 ---
 
-## Lisensi
-Proyek ini bebas digunakan untuk tujuan pembelajaran atau pengembangan. Anda dapat memodifikasi dan mendistribusikan ulang proyek ini sesuai kebutuhan.
 
----
 
-**Dikembangkan oleh [Kelompok 2] - 2025**
