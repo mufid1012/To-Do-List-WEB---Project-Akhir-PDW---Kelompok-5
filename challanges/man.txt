@@ -1,0 +1,15 @@
+NAME
+    mufidcalc - Simple calculator with a hidden twist
+
+SYNOPSIS
+    ./mufidcalc.sh [add|sub|mul|div] num1 num2
+
+DESCRIPTION
+    This script performs basic arithmetic. Try out:
+
+    ./mufidcalc.sh add 1 2
+    ./mufidcalc.sh sub 10 4
+    ./mufidcalc.sh mul 3 5
+    ./mufidcalc.sh div 8 2
+
+    There may be more than meets the eye...

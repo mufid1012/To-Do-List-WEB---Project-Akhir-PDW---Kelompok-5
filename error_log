@@ -1,0 +1,363 @@
+[16-Apr-2025 09:14:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:14:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:15:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:16:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:20:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:21:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:21:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:24:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:24:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:24:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'root', '', 'to_do_list_db')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:33:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:34:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mgr12t_admin'@'localhost' to database 'mgr12t_data' in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_admin', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[16-Apr-2025 09:39:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/includes/auth.php:20
+Stack trace:
+#0 /home/mgr12t/public_html/includes/auth.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 /home/mgr12t/public_html/login.php(21): login('sdadawd@gmail.c...', 'awdawd')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/auth.php on line 20
+[16-Apr-2025 09:40:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/register.php:29
+Stack trace:
+#0 /home/mgr12t/public_html/register.php(29): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 09:43:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/includes/auth.php:20
+Stack trace:
+#0 /home/mgr12t/public_html/includes/auth.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 /home/mgr12t/public_html/login.php(21): login('adwd@gmail.com', 'awdawd')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/auth.php on line 20
+[16-Apr-2025 09:49:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/includes/auth.php:20
+Stack trace:
+#0 /home/mgr12t/public_html/includes/auth.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 /home/mgr12t/public_html/login.php(21): login('adwd@gmail.com', 'awdawd')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/auth.php on line 20
+[16-Apr-2025 09:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/includes/auth.php:20
+Stack trace:
+#0 /home/mgr12t/public_html/includes/auth.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 /home/mgr12t/public_html/login.php(21): login('dawd@gmail.com', 'awdwad')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/auth.php on line 20
+[16-Apr-2025 09:50:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.users' doesn't exist in /home/mgr12t/public_html/register.php:29
+Stack trace:
+#0 /home/mgr12t/public_html/register.php(29): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login_dengan_username_atau_email() in /home/mgr12t/public_html/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mgr12t/public_html/index.php on line 24
+[16-Apr-2025 11:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login_dengan_username_atau_email() in /home/mgr12t/public_html/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mgr12t/public_html/index.php on line 24
+[16-Apr-2025 11:26:18 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:26:19 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:26:19 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:26:19 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:26:23 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[16-Apr-2025 11:26:29 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/mgr12t/public_html/register.php on line 29
+[17-Apr-2025 15:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_mgr12', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/login.php(6): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[17-Apr-2025 15:13:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/mgr12t/public_html/includes/koneksi.php:9
+Stack trace:
+#0 /home/mgr12t/public_html/includes/koneksi.php(9): mysqli_connect('localhost', 'mgr12t_mgr12', 'Uur456789gfx_', 'mgr12t_data')
+#1 /home/mgr12t/public_html/register.php(3): require('/home/mgr12t/pu...')
+#2 {main}
+  thrown in /home/mgr12t/public_html/includes/koneksi.php on line 9
+[27-May-2025 09:54:57 UTC] PHP Warning:  Undefined array key "konfirmasi_password" in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:54:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:54:57 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:54:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:54:57 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:54:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:56:23 UTC] PHP Warning:  Undefined array key "konfirmasi_password" in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:56:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:56:23 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:56:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:56:23 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:56:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 09:59:31 UTC] PHP Warning:  Undefined array key "konfirmasi_password" in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:59:31 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:59:44 UTC] PHP Warning:  Undefined array key "konfirmasi_password" in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 09:59:44 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/register.php on line 22
+[27-May-2025 10:35:25 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:25 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 10:35:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 10:35:38 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:38 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 10:35:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 10:35:50 UTC] PHP Warning:  Undefined array key "login_id" in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 19
+[27-May-2025 10:35:50 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 10:35:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:29 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:38 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:53 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:57 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:59 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:41:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:42:00 UTC] PHP Warning:  Undefined array key "password" in /home/mgr12t/public_html/login.php on line 20
+[27-May-2025 11:42:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/mgr12t/public_html/login.php on line 20
+[15-Jun-2025 06:58:17 UTC] PHP Warning:  Undefined variable $login_id in /home/mgr12t/public_html/login.php on line 10
+[15-Jun-2025 06:58:17 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/mgr12t/public_html/includes/auth.php on line 12
+[15-Jun-2025 06:59:55 UTC] PHP Warning:  Undefined variable $login_id in /home/mgr12t/public_html/login.php on line 10
+[15-Jun-2025 06:59:56 UTC] PHP Warning:  Undefined variable $login_id in /home/mgr12t/public_html/login.php on line 10
+[15-Jun-2025 07:01:39 UTC] PHP Warning:  Undefined array key "role" in /home/mgr12t/public_html/includes/auth.php on line 23
+[15-Jun-2025 07:01:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mgr12t/public_html/includes/auth.php:23) in /home/mgr12t/public_html/login.php on line 32
+[15-Jun-2025 07:02:56 UTC] PHP Warning:  Undefined variable $user in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 07:02:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 07:02:56 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 07:02:56 UTC] PHP Warning:  Undefined variable $user in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 07:02:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 07:02:56 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/mgr12t/public_html/includes/auth.php on line 18
+[15-Jun-2025 09:20:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:20:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:20:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:20:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:20:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:20:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 09:24:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mgr12t_data.informasi_kuliah' doesn't exist in /home/mgr12t/public_html/admin_edit_info.php:13
+Stack trace:
+#0 /home/mgr12t/public_html/admin_edit_info.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 {main}
+  thrown in /home/mgr12t/public_html/admin_edit_info.php on line 13
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:04:32 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:51 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:54 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:05:56 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:09:44 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 61
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:09:59 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:10:07 UTC] PHP Warning:  Undefined array key "utama" in /home/mgr12t/public_html/admin_cms_info.php on line 60
+[15-Jun-2025 11:10:07 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[15-Jun-2025 11:10:13 UTC] PHP Warning:  Undefined array key "urutan" in /home/mgr12t/public_html/admin_cms_info.php on line 118
+[16-Jun-2025 08:40:53 UTC] PHP Warning:  include(admin_jadwal_content.php): Failed to open stream: No such file or directory in /home/mgr12t/public_html/admin_jadwal.php on line 27
+[16-Jun-2025 08:40:53 UTC] PHP Warning:  include(admin_jadwal_content.php): Failed to open stream: No such file or directory in /home/mgr12t/public_html/admin_jadwal.php on line 27
+[16-Jun-2025 08:40:53 UTC] PHP Warning:  include(): Failed opening 'admin_jadwal_content.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/mgr12t/public_html/admin_jadwal.php on line 27
